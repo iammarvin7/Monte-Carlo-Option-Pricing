@@ -8,7 +8,7 @@ A C++ implementation of the Black-Scholes model for option pricing using Monte C
 
 - **Purpose:** Compute Call and Put option prices with Monte Carlo methods under Black-Scholes.
 - **Highlight:** Multi-threading delivers up to 6.9x speedup (85% time reduction) at 10M simulations.
-- **Language:** C++ (100% pure performance).
+- **Language:** C++
 
 ---
 
