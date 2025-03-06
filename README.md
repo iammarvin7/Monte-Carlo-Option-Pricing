@@ -30,3 +30,15 @@ A C++ implementation of the Black-Scholes model for option pricing using Monte C
 1. Clone the repo:
    ```bash
    git clone git@github.com:iammarvin7/Monte-Carlo-Option-Pricing.git
+2. Start Building...
+
+---
+
+## Performance
+
+Perfomance of the model on various number of simulations ranging from 100 to 10 Million
+
+![Performance](performance.png)
+
+
+
